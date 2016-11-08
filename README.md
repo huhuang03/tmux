@@ -1,4 +1,7 @@
 # tmux
 tmux config file
 
-    ln -s tmux/.tmux.conf .
+## 安装
+
+`./create_link.sh`
+    
